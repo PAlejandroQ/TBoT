@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47478018-0713-4640-8d62-7fb249e045d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/TBoT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/_layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/job-details/[id].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/search/[id].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/adaptive-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/DMSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/DMSans-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/DMSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/amazon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/chevron-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/chevron-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/figma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/heart-ol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/microsoft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/slack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/spotify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/twitch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/wattpad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/TbotLogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/convidaLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kemal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/cards/nearby/NearbyJobCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/cards/nearby/nearbyjobcard.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/cards/popular/PopularJobCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/cards/popular/popularjobcard.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/header/ScreenHeaderBtn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/header/screenheader.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/home/nearby/Nearbyjobs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/home/nearby/nearbyjobs.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/home/popular/Popularjobs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/home/popular/popularjobs.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/home/welcome/Welcome.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/home/welcome/welcome.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/about/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/about/about.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/company/Company.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/company/company.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/footer/footer.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/specifics/Specifics.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/specifics/specifics.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/tabs/Tabs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/tabs/tabs.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/icons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/images.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hook/useFetch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2baYOkb0GsrCaWh276MkVuNmExo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;&lt;unknown&gt;&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;21.6.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.11.16&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/synapsis/expoProyects/Others/TBoT&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.install -g expo-cli ./.executor&quot;: &quot;Run&quot;,
+    &quot;npm.install -g expo-cli.executor&quot;: &quot;Run&quot;,
+    &quot;npm.install expo-font axios react-native-dotenv.executor&quot;: &quot;Debug&quot;,
+    &quot;npm.install expo@50.0.5.executor&quot;: &quot;Run&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/snap/webstorm/361/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47478018-0713-4640-8d62-7fb249e045d0" name="Changes" comment="" />
+      <created>1706454627345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706454627345</updated>
+      <workItem from="1706454628332" duration="5342000" />
+      <workItem from="1706464289516" duration="2453000" />
+      <workItem from="1706466940371" duration="4643000" />
+      <workItem from="1706544068160" duration="8847000" />
+      <workItem from="1706619080166" duration="21357000" />
+      <workItem from="1706705075480" duration="21826000" />
+      <workItem from="1706749579793" duration="3297000" />
+      <workItem from="1706881503702" duration="7842000" />
+      <workItem from="1706917356524" duration="3285000" />
+      <workItem from="1707514404607" duration="11302000" />
+      <workItem from="1707745040065" duration="1376000" />
+      <workItem from="1707864239097" duration="600000" />
+      <workItem from="1708033030761" duration="4669000" />
+      <workItem from="1708093883658" duration="8207000" />
+      <workItem from="1708349694094" duration="9763000" />
+      <workItem from="1708433416052" duration="2247000" />
+      <workItem from="1708524789241" duration="4905000" />
+      <workItem from="1709163058817" duration="600000" />
+      <workItem from="1709229540145" duration="2472000" />
+      <workItem from="1709500311876" duration="11054000" />
+      <workItem from="1709562395766" duration="1958000" />
+      <workItem from="1709762632171" duration="2189000" />
+      <workItem from="1710222193459" duration="1301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

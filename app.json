@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "TBoT",
+    "slug": "TBoT",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "0b3dfb8e-82b2-4460-bb0f-23f904fcfa7b"
+      }
+    },
+    "android": {
+      "package": "com.synapsis.TBoT"
+    }
+  }
+}
